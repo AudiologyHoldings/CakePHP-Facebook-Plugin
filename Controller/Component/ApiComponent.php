@@ -8,7 +8,7 @@
   * @license MIT
   */
 App::uses('FacebookApi', 'Facebook.Lib');
-class ApiComponent extends Object {
+class ApiComponent extends CakeObject {
   
   /**
     * Allow direct access to the facebook API
